@@ -9,7 +9,7 @@ A simple Vue.js directive
 
 You can simply add a class which
 
-``` javascript
+``` vue
 <template>
   <div>
     <p class="myComponent" v-observable="'myComponent--visible'">
