@@ -1,6 +1,6 @@
 {
   "name": "@neuviemepage/vue-directive-observable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Vue.js directive",
   "main": "dist/vue-directive-observable.ssr.js",
   "module": "dist/vue-directive-observable.esm.js",
