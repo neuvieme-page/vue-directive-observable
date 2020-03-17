@@ -1,7 +1,7 @@
 {
   "name": "@neuviemepage/vue-directive-observable",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Vue.js directive",
   "main": "dist/vue-directive-observable.ssr.js",
   "module": "dist/vue-directive-observable.esm.js",
   "unpkg": "dist/vue-directive-observable.min.js",
@@ -39,5 +39,15 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuvieme-page/vue-directive-observable.git"
+  },
+  "author": "neuviemepage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neuvieme-page/vue-directive-observable/issues"
+  },
+  "homepage": "https://github.com/neuvieme-page/vue-directive-observable#readme"
 }
